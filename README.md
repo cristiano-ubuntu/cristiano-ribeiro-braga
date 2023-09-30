@@ -1,6 +1,6 @@
 # Olá 👋
 
-![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Cristiano+Ribeiro;Braga)
+![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Cristiano+Ribeiro+Braga;Cristiano Ribeiro Braga)
 
 
 ## 🎓 Sou Cristiano Ribeiro Brag um eterno aprendiz!
@@ -23,8 +23,6 @@
 <div>
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
 </div>
-
-
 
 ## Descrição ##
 
@@ -251,7 +249,6 @@
 <br/>
 <br/>
 
-
 ## :trophy: Jubayer Riyad Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
@@ -272,11 +269,5 @@
 
 [website]: https://site.ribeirobraga.com.br
 [linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
-[twitter]: https://www.whitter.com/JubayerRiyad/
-[youtube]: https://www.youtube.com/@JubayerRiyad/
-[instagram]: https://www.instagram.com/jubayer_riyad/
 [github]: https://www.github.com/cristiano-ubuntu/
 [portfolio]: https://site.ribeirobraga.com.br/portfolio
-[behance]: https://www.behance.net/JubayerRiyad/
-[dribbble]: https://www.dribbble.com/JubayerRiyad/
-[tiktok]: https://www.tiktok.com/@CristianoRibeiroBraga/
