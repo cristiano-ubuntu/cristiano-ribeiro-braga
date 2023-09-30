@@ -3,7 +3,7 @@
 ![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Cristiano+Ribeiro+Braga;Cristiano-Ubuntu)
 
 
-## 🎓 Sou Cristiano Ribeiro Brag um eterno aprendiz!
+## 🎓 Sou Cristiano Ribeiro Braga um eterno aprendiz!
 - ✍ Você pode encontrar meus projetos aqui [portfolio]
 - 🔭 Atualmente estou trabalhando no meu portfólio.
 - 🌱 I’m currently learning Reactjs
@@ -235,16 +235,16 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiano-ubuntud&show_icons=true&locale=en" alt="cristiano-ubuntu" width="300" />
 </p>
 <br/>
 
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JubayerRiyad&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
+[![Gráfico de atividades do github de Cristiano Ribeiro Braga](https://github-readme-activity-graph.cyclic.app/graph?username=cristiano-ubuntu&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
 
 <br/>
 <br/>
 
-## :trophy: Jubayer Riyad Github Stats:
+## :trophy: Estatísticas do Github de Cristiano Ribeiro Braga:
 
 ![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntud&theme=github_dark) 
 
