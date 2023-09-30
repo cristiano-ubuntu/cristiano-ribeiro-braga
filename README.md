@@ -29,9 +29,9 @@
 [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
 
 ### Faça contato:
+[<img align="left" alt="holisitc_developer | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][website]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="holisitc_developer | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][website]
 
 <br/>
 
@@ -239,14 +239,14 @@
 </p>
 <br/>
 
-[![Gráfico de atividades do github de Cristiano Ribeiro Braga](https://github-readme-activity-graph.cyclic.app/graph?username=cristiano-ubuntu&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
+[![Gráfico de atividades do github de Cristiano Ribeiro Braga](https://github-readme-activity-graph.cyclic.app/graph?username=cristiano-ubuntu&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/cristiano-ubuntu/github-readme-activity-graph)
 
 <br/>
 <br/>
 
 ## :trophy: Estatísticas do Github de Cristiano Ribeiro Braga:
 
-![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntud&theme=github_dark) 
+![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntu&theme=github_dark) 
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Visualizações e seguidores :eyes:</h2>
 
