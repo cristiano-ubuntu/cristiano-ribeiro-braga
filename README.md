@@ -249,7 +249,7 @@
 ![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntu&theme=github_dark)
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/cristiano-ubuntu">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-ubuntu&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano-ubuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
