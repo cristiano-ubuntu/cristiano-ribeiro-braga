@@ -262,8 +262,6 @@
 </a>    
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: cristiano-ubuntu Contagem de visitantes" /></p> 
-
 [website]: https://site.ribeirobraga.com.br/
 [linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
 [github]: https://www.github.com/cristiano-ubuntu/
