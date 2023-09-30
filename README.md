@@ -17,6 +17,10 @@ JavaScript, HTML, CSS, Python e Docker.
 ![image](https://github.com/cristiano-ubuntu/cristiano-ribeiro-braga/assets/40616714/4b1e3b84-c835-430c-9482-98388fbd0604)
 ![image](https://github.com/cristiano-ubuntu/cristiano-ribeiro-braga/assets/40616714/f510c489-b8f8-4cd7-808d-a1e0543cbe54)
 ![image](https://github.com/cristiano-ubuntu/cristiano-ribeiro-braga/assets/40616714/dbe179f2-d7d1-4444-9bb4-2f42b04b48ef)
+![image](https://github.com/cristiano-ubuntu/cristiano-ribeiro-braga/assets/40616714/3b708499-006c-48b9-acad-61d08c81b0b5)
+![image](https://github.com/cristiano-ubuntu/cristiano-ribeiro-braga/assets/40616714/5b6e6619-21d3-49c5-8817-1b3a823af35b)
+![image](https://github.com/cristiano-ubuntu/cristiano-ribeiro-braga/assets/40616714/54ed9bb2-46ea-4aec-94b7-78bd9ada1d9f)
+
 
 
 
