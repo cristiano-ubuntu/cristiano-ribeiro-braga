@@ -246,7 +246,13 @@
 
 ## :trophy: Estatísticas do Github de Cristiano Ribeiro Braga:
 
-![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntu&theme=github_dark) 
+![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntu&theme=github_dark)
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-ubuntu&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano-ubuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Visualizações e seguidores :eyes:</h2>
 
@@ -263,8 +269,3 @@
 [github]: https://www.github.com/cristiano-ubuntu/
 [portfolio]: https://site.ribeirobraga.com.br/portfolio/
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiano-ubuntu&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiano-ubuntu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
