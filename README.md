@@ -255,19 +255,15 @@
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
 
-<p align="center">
-    
-<a href="https://github.com/JubayerRiyad/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JubayerRiyad">
-</a>
-    <a href="https://github.com/JubayerRiyad?tab=followers">
-        <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
-    </a>
+<p align="center">    
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=cristiano-ubuntu&label=Total%20de%20visualizac%C3%B5es%20do%20meu%20perfil&icon=0&pretty=false" />
+</a>    
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p> 
 
-[website]: https://site.ribeirobraga.com.br
+[website]: https://site.ribeirobraga.com.br/
 [linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
 [github]: https://www.github.com/cristiano-ubuntu/
-[portfolio]: https://site.ribeirobraga.com.br/portfolio
+[portfolio]: https://site.ribeirobraga.com.br/portfolio/
