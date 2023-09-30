@@ -30,8 +30,8 @@
 
 ### Faça contato:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="holisitc_developer | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][website]
 
 <br/>
 
@@ -256,7 +256,7 @@
 </a>    
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: cristiano-ubuntu Visitor's Count" /></p> 
 
 [website]: https://site.ribeirobraga.com.br/
 [linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
