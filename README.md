@@ -30,13 +30,8 @@
 
 ### Faça contato:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="holisitc_developer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="holisitc_developer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="holisitc_developer | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="holisitc_developer | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="holisitc_developer | tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
 <br/>
 
