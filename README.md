@@ -239,8 +239,6 @@
 </p>
 <br/>
 
-[![Gráfico de atividades do github de Cristiano Ribeiro Braga](https://github-readme-activity-graph.cyclic.app/graph?username=cristiano-ubuntu&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/cristiano-ubuntu/github-readme-activity-graph)
-
 <br/>
 <br/>
 
