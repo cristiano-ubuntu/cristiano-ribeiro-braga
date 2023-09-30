@@ -246,9 +246,9 @@
 
 ## :trophy: Jubayer Riyad Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
+![Detalhes do perfil do Github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristiano-ubuntud&theme=github_dark) 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Visualizações e seguidores :eyes:</h2>
 
 <p align="center">    
 <a href="https://visitcount.itsvg.in">
@@ -256,7 +256,7 @@
 </a>    
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: cristiano-ubuntu Visitor's Count" /></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: cristiano-ubuntu Contagem de visitantes" /></p> 
 
 [website]: https://site.ribeirobraga.com.br/
 [linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
