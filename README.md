@@ -235,7 +235,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiano-ubuntud&show_icons=true&locale=en" alt="cristiano-ubuntu" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiano-ubuntud&show_icons=true&locale=pt-br" alt="cristiano-ubuntu" width="300" />
 </p>
 <br/>
 
