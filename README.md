@@ -1,23 +1,22 @@
 # Olá 👋
 
-![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Jubayer+Riyad;Braga)
+![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Cristiano+Ribeiro;Braga)
 
 
-## 🎓 I'm Jubayer Riyad Web Design & Developer!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my Portfolio.
+## 🎓 Sou Cristiano Ribeiro Brag um eterno aprendiz!
+- ✍ Você pode encontrar meus projetos aqui [portfolio]
+- 🔭 Atualmente estou trabalhando no meu portfólio.
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
-### Skills:
-- Python, C, Java
+### Habilidades:
+- Python, C++, Java
 - HTML, CSS, JavaScript, jQuery & Bootstrap
 - PHP & mySQL (PHP Frameworks)
 - Shopify, eCommerce, Woocommerce
-- Public Speaking
 
 <br/>
 
@@ -27,7 +26,7 @@
 
 
 
-## Description ##
+## Descrição ##
 
 [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
 
