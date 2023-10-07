@@ -32,6 +32,13 @@
 [<img align="left" alt="holisitc_developer | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][website]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="holisitc_developer | Github" width="22px" src="https://telegram.org/img/t_logo.png" />][telegram]
+
+[website]: https://site.ribeirobraga.com.br/
+[linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
+[github]: https://www.github.com/cristiano-ubuntu/
+[portfolio]: https://site.ribeirobraga.com.br/portfolio/
+[telegram]: https://t.me/CristianoBraga/
 
 <br/>
 
@@ -259,9 +266,3 @@
   <img src="https://visitcount.itsvg.in/api?id=cristiano-ubuntu&label=Total%20de%20visualizac%C3%B5es%20do%20meu%20perfil&icon=0&pretty=false" />
 </a>    
 </p>
-
-[website]: https://site.ribeirobraga.com.br/
-[linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
-[github]: https://www.github.com/cristiano-ubuntu/
-[portfolio]: https://site.ribeirobraga.com.br/portfolio/
-
