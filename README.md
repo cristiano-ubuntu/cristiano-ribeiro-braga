@@ -4,19 +4,17 @@
 
 
 ## 🎓 Sou Cristiano Ribeiro Braga um eterno aprendiz!
-- ✍ Você pode encontrar meus projetos aqui [portfolio]
-- 🔭 Atualmente estou trabalhando no meu portfólio.
-- 🌱 I’m currently learning Reactjs
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: Him/His
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ✍ Você pode encontrar meus projetos aqui. - You can find my projects here [portfolio]
+- 🔭 Atualmente estou trabalhando no meu portfólio. - I'm currently working on my portfolio.
+- 🌱 Atualmente estou aprendendo Python. - I’m currently learning Python.
+- 💬 Faça contato - Get in touch.
+- ⚡ I speak Portuguese. -  I’m learning English.
 
 ### Habilidades:
 - Python, C++, Java
 - HTML, CSS, JavaScript, jQuery & Bootstrap
 - PHP & mySQL (PHP Frameworks)
-- Shopify, eCommerce, Woocommerce
+- eCommerce, Woocommerce
 
 <br/>
 
