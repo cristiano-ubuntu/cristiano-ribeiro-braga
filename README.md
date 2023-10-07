@@ -1,6 +1,6 @@
 # Olá 👋
 
-![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Cristiano+Ribeiro+Braga;Cristiano-Ubuntu)
+![Cristiano](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Seja+bem-vindo!)
 
 
 ## 🎓 Sou Cristiano Ribeiro Braga um eterno aprendiz!
