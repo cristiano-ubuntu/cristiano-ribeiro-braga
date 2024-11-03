@@ -35,7 +35,7 @@
 [website]: https://site.ribeirobraga.com.br/
 [linkedin]: https://www.linkedin.com/in/cristiano-ribeiro-braga-29a435151/
 [github]: https://www.github.com/cristiano-ubuntu/
-[portfolio]: https://site.ribeirobraga.com.br/portfolio/
+[portfolio]: https://ribeirobraga.com.br/portfolio/
 [telegram]: https://t.me/CristianoBraga/
 
 <br/>
