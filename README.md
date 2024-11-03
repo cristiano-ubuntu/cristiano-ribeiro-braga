@@ -4,11 +4,11 @@
 
 
 ## 🎓 Sou Cristiano Ribeiro Braga um eterno aprendiz!
-- ✍ Você pode encontrar meus projetos aqui. - You can find my projects here [portfolio]
-- 🔭 Atualmente estou trabalhando no meu portfólio. - I'm currently working on my portfolio.
-- 🌱 Atualmente estou aprendendo Python. - I’m currently learning Python.
-- 💬 Faça contato - Get in touch.
-- ⚡ I speak Portuguese. -  I’m learning English.
+- ✍ Você encontra meus projetos aqui. | *You can find my projects here*. [portfolio].
+- 🔭 Atualmente, estou desenvolvendo meu portfólio. | *I'm currently working on my portfolio*.
+- 🌱 No momento, estou me apaixonando por Python. | *I’m currently falling in love with Python*.
+- 💬 Entre em contato. | *Get in touch*.
+- ⚡ Falo português. | *I’m learning English*.
 
 ### Habilidades:
 - Python, C++, Java
