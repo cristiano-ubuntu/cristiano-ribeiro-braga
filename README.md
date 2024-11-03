@@ -8,10 +8,10 @@
 - 🔭 Atualmente, estou desenvolvendo meu portfólio. | *I'm currently working on my portfolio*.
 - 🌱 No momento, estou me apaixonando por Python. | *I’m currently falling in love with Python*.
 - 💬 Entre em contato. | *Get in touch*.
-- ⚡ Falo português. | *I’m learning English*.
+- ⚡ Falo português e estou estudando inglês. | *I speak Portuguese and I'm learning English*.
 
 ### Habilidades:
-- Python, C++, Java
+- C++, Java, Python
 - HTML, CSS, JavaScript, jQuery & Bootstrap
 - PHP & mySQL (PHP Frameworks)
 - eCommerce, Woocommerce
